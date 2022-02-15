@@ -1,6 +1,7 @@
 
 #!/bin/bash
 # Created by M.Y. WANG
+# 15-Feb.-2022
 
 
 # Organize the mrs data
