@@ -2,20 +2,16 @@
 
 ## 1. Interesting Metabolites 
 
-#### GABA (r-amino butyric acid) is the primary inhibitory neurotransmitter in the human brain.
+**GABA** (r-amino butyric acid) is the primary inhibitory neurotransmitter in the human brain.
 
-Glx (glutamine & glutamate) is the primary excitatory neurotransmitter in the human brain 
+**Glx** (glutamine & glutamate) is the primary excitatory neurotransmitter in the human brain. 
 
-NAA+
+**NAA+** (N-acetyl aspartate & N-acetyl aspartyl glutamate) inhibit synapticrelease of GABA, glutamate and dopamine, and regulates GABA receptor expression and reducing cyclic AMP levels
 
-Creatine
-
-Choline,
-
-Lactate
+**Creatine, Choline, Lactate**
 
 ![image](https://user-images.githubusercontent.com/31480148/155324801-0a4920db-d609-4014-ada9-7e6aacaca827.png)
-
+Figure adopted from Öz, G. et al., 2014
 
 Harris, A. D., Saleh, M. G., & Edden, R. A. (2017). Edited 1H magnetic resonance spectroscopy in vivo: Methods and metabolites. Magnetic resonance in medicine, 77(4), 1377-1389.
 
