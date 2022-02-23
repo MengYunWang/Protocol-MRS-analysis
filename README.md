@@ -10,8 +10,9 @@
 
 **Creatine, Choline, Lactate**
 
-![image](https://user-images.githubusercontent.com/31480148/155324801-0a4920db-d609-4014-ada9-7e6aacaca827.png)
-Figure adopted from Öz, G. et al., 2014
+<p align="center">
+ <image width="460" src="https://user-images.githubusercontent.com/31480148/155324801-0a4920db-d609-4014-ada9-7e6aacaca827.png" alt="fdasf" title="dfasf">
+</p>
 
 Harris, A. D., Saleh, M. G., & Edden, R. A. (2017). Edited 1H magnetic resonance spectroscopy in vivo: Methods and metabolites. Magnetic resonance in medicine, 77(4), 1377-1389.
 
