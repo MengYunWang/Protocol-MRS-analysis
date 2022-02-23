@@ -18,6 +18,30 @@ Harris, A. D., Saleh, M. G., & Edden, R. A. (2017). Edited 1H magnetic resonance
 
 ## 2. How to record and its difficulties and solutions
 
+### (1) **chemical shift**
+Definition: Different molecule containg 1H, due to its own chemical nature, will have different resonance frequency, which is the principle of MRS.
+
+In MRS, the chemical shift refers to the frequency scale relative to a frequency reference. It is expressed in **parts per million (ppm)** to be independent of magnetic field strength.
+ 
+Reference: **water or tCr** (total Creatine)
+ 
+### (2) Solutions to **J-coupling**
+ Definition: J-coupling stands for the interaction (expressed in Hz) between nearby nuclear magnetic moments mediated by electron spins. 
+ 
+ - **1-D editing**
+ 
+ -J-difference editing: PRESS; STEAM; LASER
+ 
+ -MQC (Multiple quantum coherence) editing
+
+ - **2-D editing**
+ 
+ 
+ - **High field** such as 7T or 11T
+ 
+ Choi, I. Y., Andronesi, O. C., Barker, P., Bogner, W., Edden, R. A., Kaiser, L. G., ... & de Graaf, R. A. (2021). Spectral editing in 1H magnetic resonance spectroscopy: Experts' consensus recommendations. NMR in Biomedicine, 34(5), e4411.
+ 
+ Bogner, W., Hangel, G., Esmaeili, M., & Andronesi, O. C. (2017). 1D-spectral editing and 2D multispectral in vivo 1H-MRS and 1H-MRSI-Methods and applications. Analytical biochemistry, 529, 48-64.
 
 ## 3. Processing
 
