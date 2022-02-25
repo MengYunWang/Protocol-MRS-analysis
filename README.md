@@ -55,13 +55,23 @@ Reference: **water or tCr** (total Creatine)
  - **Dimention reduction**
  
  RF coil combination -> online; signal averaging -> offline
- - **Data Quality**
+ - **Frequency conversion**
  
-SNR >3; linewidth <0.1; CRLR(Cramer-Rao Lower Bounds) < 50%
+ FFT; zero-padding; apodization
 ### (2) Modeling
  
+ - **Linear combination model**  
  
+ ***basis spectra (set)*** describes an individual metabolite's full spectral contribution, and can be obtained either by phantom experiment or simulation.
+ 
+ SNR >3; linewidth <0.1; CRLR(Cramer-Rao Lower Bounds) < 50%
 
+ - **Peak fitting**
+ 
+ 
+ - **Peak integration**
+
+ 
 ### (3) Qualification
  
 Near, J., Harris, A. D., Juchem, C., Kreis, R., Marjańska, M., Öz, G., ... & Gasparovic, C. (2021). Preprocessing, analysis and quantification in single-voxel magnetic resonance spectroscopy: experts' consensus recommendations. NMR in Biomedicine, 34(5), e4257.
