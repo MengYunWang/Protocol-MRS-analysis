@@ -64,15 +64,17 @@ Reference: **water or tCr** (total Creatine)
  
  ***basis spectra (set)*** describes an individual metabolite's full spectral contribution, and can be obtained either by phantom experiment or simulation.
  
- SNR >3; linewidth <0.1; CRLR(Cramer-Rao Lower Bounds) < 50%
+ SNR >3; linewidth <0.1; CRLR/CRMVB(Cramer-Rao Lower Bounds/ Minimum Variance Bound) < 50%
 
  - **Peak fitting**
  
- 
+ This method is most commonly used in applications involving relatively sparse MRS data
  - **Peak integration**
 
- 
+ This method is only recommended for MRS data with very sparse, well phased peaks and no baseline or MM contribution (e.g.,1H-MRS withTE> 150 ms, or13C spectra). 
 ### (3) Qualification
+ 
+ Reference: **water or tCr** (total Creatine)
  
 Near, J., Harris, A. D., Juchem, C., Kreis, R., Marjańska, M., Öz, G., ... & Gasparovic, C. (2021). Preprocessing, analysis and quantification in single-voxel magnetic resonance spectroscopy: experts' consensus recommendations. NMR in Biomedicine, 34(5), e4257.
 
