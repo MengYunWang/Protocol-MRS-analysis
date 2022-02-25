@@ -46,11 +46,24 @@ Reference: **water or tCr** (total Creatine)
 ## 3. Processing
 
 ### (1) Preprocessing
-
+ 
+ - **Correct imperfections**
+ 
+ Eddy current correction; Motion correction; Alignment of subtraction sub-spectra (J-deffe editing); -> offline
+ 
+ Frequency and phase drift correciton; nuisance peak remove -> online
+ - **Dimention reduction**
+ 
+ RF coil combination -> online; signal averaging -> offline
+ - **Data Quality**
+ 
+SNR >3; linewidth <0.1; CRLR(Cramer-Rao Lower Bounds) < 50%
 ### (2) Modeling
+ 
+ 
 
-### (3) Qualifing
-
+### (3) Qualification
+ 
 Near, J., Harris, A. D., Juchem, C., Kreis, R., Marjańska, M., Öz, G., ... & Gasparovic, C. (2021). Preprocessing, analysis and quantification in single-voxel magnetic resonance spectroscopy: experts' consensus recommendations. NMR in Biomedicine, 34(5), e4257.
 
 ## 4. Application
