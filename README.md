@@ -57,7 +57,7 @@ Reference: **water or tCr** (total Creatine)
  RF coil combination -> online; signal averaging -> offline
  - **Frequency conversion**
  
- FFT; zero-padding; apodization
+ FFT; Zero-padding; Apodization
 ### (2) Modeling
  
  - **Linear combination model**  
