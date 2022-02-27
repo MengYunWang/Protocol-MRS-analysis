@@ -1,0 +1,15 @@
+ $LCMODL
+ OWNER='Biomedizinische NMR Forschungs GmbH, Goettingen'
+ KEY(1)=0
+ TITLE='FIGURE 1:  Test Data (white matter, 2.0 T, STEAM, TE/TM=20/30 ms).'
+ ratipm = 2.0
+ ltable=7, filtab='.lcmodel/test/output/test.table'
+ lprint=6, filpri='.lcmodel/test/output/test.dump'
+ FILBAS='.lcmodel/test/output/test.basis'
+ FILRAW='.lcmodel/test/raw/test.RAW'
+ FILPS='.lcmodel/test/output/test.ps'
+ nameac(2)='NAAG'
+ neach=2  nameac(1)='NAA' 
+ NUNFIL=2048, DELTAT=.0005
+ HZPPPM=84.47
+ $END
