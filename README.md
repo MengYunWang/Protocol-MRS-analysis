@@ -20,7 +20,7 @@ Harris, A. D., Saleh, M. G., & Edden, R. A. (2017). Edited 1H magnetic resonance
 
 ## 2. How to record and its difficulties and solutions
 
-### (1) **chemical shift**
+### (1) **Chemical Shift**
 Definition: Different molecule containing 1H, due to its own chemical nature, will have different resonance frequency, which is the principle of MRS.
 
 In MRS, the chemical shift refers to the frequency scale relative to a frequency reference. It is expressed in **parts per million (ppm)** to be independent of magnetic field strength.
@@ -84,9 +84,9 @@ Near, J., Harris, A. D., Juchem, C., Kreis, R., Marjańska, M., Öz, G., ... & G
 
 ### (1) Reliability/Reproducibility
 
-### (2) Cognitive neuroscience
+### (2) Cognitive Neuroscience
 
-### (3) Pharmacoligical
+### (3) Pharmacoligical research
 
 ### (4) Clinical
 
