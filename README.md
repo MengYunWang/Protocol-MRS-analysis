@@ -82,6 +82,8 @@ Near, J., Harris, A. D., Juchem, C., Kreis, R., Marjańska, M., Öz, G., ... & G
 
 ## 4. Application
 
+Lin, A., Andronesi, O., Bogner, W., Choi, I. Y., Coello, E., Cudalbu, C., ... & Experts' Working Group on Reporting Standards for MR Spectroscopy. (2021). Minimum ****reporting standards**** for in vivo magnetic resonance spectroscopy (MRSinMRS): experts' consensus recommendations. NMR in Biomedicine, 34(5), e4484.
+
 ### (1) Reliability/Reproducibility
 
 ### (2) Cognitive Neuroscience
