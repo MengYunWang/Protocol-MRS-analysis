@@ -66,7 +66,7 @@ Reference: **water or tCr** (total Creatine)
  
  ****Basis Spectra (set)**** describes an individual metabolite's full spectral contribution, and can be obtained either by phantom experiment or simulation.
  
- ***SNR >3; linewidth <0.1; CRLR/CRMVB(Cramer-Rao Lower Bounds/ Minimum Variance Bound) < 50%***
+ ***SNR >3; Linewidth <0.1; CRLR/CRMVB(Cramer-Rao Lower Bounds/ Minimum Variance Bound) < 50%***
 
  - **Peak fitting**
  
