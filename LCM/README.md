@@ -20,7 +20,6 @@ the location of the basis set
 
 
 ```
-# just this one commandline will solve everything----so called black box
+# just this one command line will do everything -- so called black box
  LCM << CONTROL file
-
 ```  
