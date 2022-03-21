@@ -1,3 +1,4 @@
+Follow this instruction to source LCM on your macbook https://forum.mrshub.org/t/building-lcmodel/317 
 
 Need three things and one command line
 
