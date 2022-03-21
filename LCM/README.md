@@ -8,10 +8,19 @@ Need three things and one command line
 
 
 3. CONTROL file
+In this file, you define:
+
+the parameters
+
+the location of your data in RAW format
+
+the location of the output
+
+the location of the basis set
 
 
 ```
-# 
+# just this one commandline will solve everything----so called black box
  LCM << CONTROL file
 
 ```  
