@@ -62,7 +62,7 @@ Reference: **water or tCr** (total Creatine)
  FFT; Zero-padding; Apodization
 ### (2) Modeling
  
- - **Linear combination model**  
+ - **Linear Combination Model(LCM)**  
  
  ****Basis Spectra (set)**** describes an individual metabolite's full spectral contribution, and can be obtained either by phantom experiment or simulation.
  
