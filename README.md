@@ -1,5 +1,7 @@
 # Protocol-MRS-analysis
 
+Kreis, R., Boer, V., Choi, I. Y., Cudalbu, C., de Graaf, R. A., Gasparovic, C., ... & Experts' Working Group on Terminology for MR Spectroscopy. (2021). ***Terminology and concepts*** for the characterization of in vivo MR spectroscopy methods and MR spectra: Background and experts' consensus recommendations. NMR in Biomedicine, 34(5), e4347.
+
 ## 1. Interesting Metabolites 
 
 **GABA** (r-amino butyric acid) is the primary inhibitory neurotransmitter in the human brain.
@@ -19,7 +21,7 @@ Harris, A. D., Saleh, M. G., & Edden, R. A. (2017). Edited 1H magnetic resonance
 ## 2. How to record and its difficulties and solutions
 
 ### (1) **chemical shift**
-Definition: Different molecule containg 1H, due to its own chemical nature, will have different resonance frequency, which is the principle of MRS.
+Definition: Different molecule containing 1H, due to its own chemical nature, will have different resonance frequency, which is the principle of MRS.
 
 In MRS, the chemical shift refers to the frequency scale relative to a frequency reference. It is expressed in **parts per million (ppm)** to be independent of magnetic field strength.
  
