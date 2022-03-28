@@ -32,7 +32,7 @@ Reference: **water or tCr** (total Creatine)
  
  - **1-D editing**
  
- > J-difference editing: PRESS; STEAM; LASER
+ > J-difference editing: PRESS; STEAM; LASER; SPECIAL
  
  > MQC (Multiple quantum coherence) editing
 
