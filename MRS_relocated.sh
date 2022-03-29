@@ -24,8 +24,10 @@ for sub in `cat ./subjList.txt`; do
         ((ses_num=$ses_num+1))
         ses_num=$(printf "%02d" $ses_num)
         
-        cp $filepath/$sub/$ses_name/004_PROBE-SV_35/P*.7 $filepath/$sub/$ses_name/004_PROBE-SV_35/${sub}_ses-${ses_num}_P35.7
-        mv $filepath/$sub/$ses_name/004_PROBE-SV_35/${sub}_ses-${ses_num}_P35.7 $MRS_path/$sub/Pfile 
+        cp $filepath/$sub/$ses_name/*_PROBE-SV_35/P*.7 $MRS_path/$sub/Pfile/${sub}_ses-${ses_num}_P35.7
+        
+        #cp $filepath/$sub/$ses_name/004_PROBE-SV_35/P*.7 $filepath/$sub/$ses_name/004_PROBE-SV_35/${sub}_ses-${ses_num}_P35.7
+        #mv $filepath/$sub/$ses_name/004_PROBE-SV_35/${sub}_ses-${ses_num}_P35.7 $MRS_path/$sub/Pfile 
 
         dcm2niix -b n -f ${sub}_ses-${ses_num}_T1W -o $MRS_path/$sub/anat $filepath/$sub/$ses_name/003_Sag_FSPGR_3D/ 
 
