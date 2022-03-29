@@ -29,7 +29,7 @@ for sub in `cat ./subjList.txt`; do
         #cp $filepath/$sub/$ses_name/004_PROBE-SV_35/P*.7 $filepath/$sub/$ses_name/004_PROBE-SV_35/${sub}_ses-${ses_num}_P35.7
         #mv $filepath/$sub/$ses_name/004_PROBE-SV_35/${sub}_ses-${ses_num}_P35.7 $MRS_path/$sub/Pfile 
 
-        dcm2niix -b n -f ${sub}_ses-${ses_num}_T1W -o $MRS_path/$sub/anat $filepath/$sub/$ses_name/003_Sag_FSPGR_3D/ 
+        dcm2niix -b n -f ${sub}_ses-${ses_num}_T1W -o $MRS_path/$sub/anat $filepath/$sub/$ses_name/*_Sag_FSPGR_3D/ 
 
     done
     
