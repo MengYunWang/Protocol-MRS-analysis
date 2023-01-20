@@ -4,6 +4,8 @@ Kreis, R., Boer, V., Choi, I. Y., Cudalbu, C., de Graaf, R. A., Gasparovic, C., 
 
 ## 1. Interesting Metabolites 
 
+A typical 1H spectrum acquired with a very short echo time (TE) from the rat or human brain in vivo contains resonances from more than **15** different metabolites and **9** broad resonances from macromolecules (MM).
+
 **GABA** (r-amino butyric acid) is the primary inhibitory neurotransmitter in the human brain.
 
 **Glx** (glutamine & glutamate) is the primary excitatory neurotransmitter in the human brain. 
