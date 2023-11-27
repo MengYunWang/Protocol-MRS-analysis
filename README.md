@@ -88,7 +88,11 @@ Lin, A., Andronesi, O., Bogner, W., Choi, I. Y., Coello, E., Cudalbu, C., ... & 
 
 ### (1) Reliability/Reproducibility
 
+Wang, M.-Y., Korbmacher, M.,Eikeland, R., Craven, A. R., & Specht, K. (2023). Theintra-individual reliability of1H-MRS measurement in theanterior cingulate cortex across 1 year.Human Brain Mapping,1–10.
+
 ### (2) Cognitive Neuroscience
+
+Pasanta, D., He, J. L., Ford, T., Oeltzschner, G., Lythgoe, D. J., & Puts, N. A. (2023). Functional MRS studies of GABA and glutamate/Glx–A systematic review and meta-analysis. Neuroscience & Biobehavioral Reviews, 144, 104940.
 
 ### (3) Pharmacoligical research
 
