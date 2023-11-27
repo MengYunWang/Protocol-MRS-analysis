@@ -88,7 +88,7 @@ Lin, A., Andronesi, O., Bogner, W., Choi, I. Y., Coello, E., Cudalbu, C., ... & 
 
 ### (1) Reliability/Reproducibility
 
-Wang, M.-Y., Korbmacher, M.,Eikeland, R., Craven, A. R., & Specht, K. (2023). Theintra-individual reliability of1H-MRS measurement in theanterior cingulate cortex across 1 year.Human Brain Mapping,1–10.
+Wang, M.-Y., Korbmacher, M.,Eikeland, R., Craven, A. R., & Specht, K. (2023). The intra-individual reliability of 1H-MRS measurement in the anterior cingulate cortex across 1 year. Human Brain Mapping,1–10.
 
 ### (2) Cognitive Neuroscience
 
