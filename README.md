@@ -89,13 +89,13 @@ Craven, A. R., Bhattacharyya, P. K., Clarke, W. T., Dydak, U., Edden, R. A., Ers
  - **LCM Model**  
  Provencher, S. W. (1993). Estimation of metabolite concentrations from localized in vivo proton NMR spectra. Magnetic resonance in medicine, 30(6), 672-679.
 
- - **Gannet** 
+ - **Gannet**  
  Edden, R. A., Puts, N. A., Harris, A. D., Barker, P. B., & Evans, C. J. (2014). Gannet: A batch‐processing tool for the quantitative analysis of gamma‐aminobutyric acid–edited MR spectroscopy spectra. Journal of Magnetic Resonance Imaging, 40(6), 1445-1452.
  
  - **Osprey**  
  Oeltzschner, G., Zöllner, H. J., Hui, S. C., Mikkelsen, M., Saleh, M. G., Tapper, S., & Edden, R. A. (2020). Osprey: Open-source processing, reconstruction & estimation of magnetic resonance spectroscopy data. Journal of Neuroscience Methods, 343, 108827.
  
- - **FSL-MRS** 
+ - **FSL-MRS**  
  Clarke, W. T., Stagg, C. J., & Jbabdi, S. (2021). FSL‐MRS: An end‐to‐end spectroscopy analysis package. Magnetic resonance in medicine, 85(6), 2950-2964.
 
 ## 4. Application
